@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Natureza em foco.</title>
+    <title><em>Natureza em foco.</em></title>
 </head>
 <body>
 <h1><strong>Mais cor nessa tempestade.</strong> </h1>
