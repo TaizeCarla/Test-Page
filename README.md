@@ -7,7 +7,7 @@
     <title>Natureza em foco.</title>
 </head>
 <body>
-<h1>Mais cor nessa tempestade. </h1>
+<h1><strong>Mais cor nessa tempestade.</strong> </h1>
 <p>A pândemia de covid-19 vivênciada pelo nosso pais e mundo no ano de 2020/2021, trouxe dolorosas perdas em todos os aspectos. </p>
 <p>As pessoas precisaram se adaptar rápido a maneiras de contigência, cuidados com higiênes expressivos, distânciamento social e práticas simples como demonstrar afeto aos entes queridos se matendo distante em vez de abraça-los. </p>
 <p>Um povo caloroso, que festeja, une familias númerosas em volta de uma mesa, precisou soprar as velinhas pela tela de um celular...</p>
